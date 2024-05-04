@@ -21,6 +21,7 @@ namespace BaseDeDatos_Conectada
 
         private void button1_Click(object sender, EventArgs e)
         {
+           
             vt1 prin = new vt1();
             prin.Show();
             this.Hide();

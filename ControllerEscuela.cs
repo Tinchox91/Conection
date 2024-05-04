@@ -26,7 +26,8 @@ namespace BaseDeDatos_Conectada
             }
             try
             {
-                MySqlConnection con = base.conexion();
+
+                MySqlConnection con = base.conexion();                
                 con.Open();
                 MySqlCommand comando = new MySqlCommand(sql, con);
                 reader = comando.ExecuteReader();

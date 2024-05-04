@@ -11,7 +11,7 @@ namespace BaseDeDatos_Conectada
 {
     internal class Conection
     {
-        public void conexion()
+        public MySqlConnection conexion()
         {
             string servidor = "localhost";
             string usuario = "root";
@@ -38,7 +38,10 @@ namespace BaseDeDatos_Conectada
                 {
                     conexionBD.Close();
                 }
+                
             }
+            return new MySqlConnection(cadenaConexion);
         }
+         
     }
 }
