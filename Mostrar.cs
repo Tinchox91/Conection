@@ -16,6 +16,7 @@ namespace BaseDeDatos_Conectada
         public Mostrar()
         {
             InitializeComponent();
+            cargarTabla(null);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -33,6 +34,18 @@ namespace BaseDeDatos_Conectada
         private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string dato = textBox1.Text;
+            cargarTabla(dato);
+        }
+        private void cargarTabla(string dato)
+        {
+            List<Escuela> lista = new List<Escuela>();
+            ControllerEscuela con = new ControllerEscuela();
+            tabla.DataSource = con.consulta(dato);
         }
     }
 }
