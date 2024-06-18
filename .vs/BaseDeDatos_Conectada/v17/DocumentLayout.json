@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\",
+  "WorkspaceRootPath": "C:\\Users\\tinch\\source\\repos\\Tinchox91\\Conection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|c:\\users\\tinch\\source\\repos\\tinchox91\\conection\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|solutionrelative:conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|d:\\martin\\programacion\\proyectos\\c#\\basededatos_conectada\\controllerescuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|solutionrelative:controllerescuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|d:\\martin\\programacion\\proyectos\\c#\\basededatos_conectada\\mostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|solutionrelative:mostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|c:\\users\\tinch\\source\\repos\\tinchox91\\conection\\entidades\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67A331E-30C0-4494-98F7-19BBF0949AB6}|BaseDeDatos_Conectada.csproj|solutionrelative:entidades\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -34,41 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mostrar.cs",
-              "DocumentMoniker": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\Mostrar.cs",
-              "RelativeDocumentMoniker": "Mostrar.cs",
-              "ToolTip": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\Mostrar.cs",
-              "RelativeToolTip": "Mostrar.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAjwDQAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Conection.cs",
+              "DocumentMoniker": "C:\\Users\\tinch\\source\\repos\\Tinchox91\\Conection\\Conection.cs",
+              "RelativeDocumentMoniker": "Conection.cs",
+              "ToolTip": "C:\\Users\\tinch\\source\\repos\\Tinchox91\\Conection\\Conection.cs",
+              "RelativeToolTip": "Conection.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T23:33:47.246Z",
+              "WhenOpened": "2024-06-18T21:30:27.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ControllerEscuela.cs",
-              "DocumentMoniker": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\ControllerEscuela.cs",
-              "RelativeDocumentMoniker": "ControllerEscuela.cs",
-              "ToolTip": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\ControllerEscuela.cs",
-              "RelativeToolTip": "ControllerEscuela.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Title": "Escuela.cs",
+              "DocumentMoniker": "C:\\Users\\tinch\\Source\\Repos\\Tinchox91\\Conection\\Entidades\\Escuela.cs",
+              "RelativeDocumentMoniker": "Entidades\\Escuela.cs",
+              "ToolTip": "C:\\Users\\tinch\\Source\\Repos\\Tinchox91\\Conection\\Entidades\\Escuela.cs",
+              "RelativeToolTip": "Entidades\\Escuela.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T00:17:42.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Conection.cs",
-              "DocumentMoniker": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\Conection.cs",
-              "RelativeDocumentMoniker": "Conection.cs",
-              "ToolTip": "D:\\Martin\\Programacion\\Proyectos\\C#\\BaseDeDatos_Conectada\\Conection.cs",
-              "RelativeToolTip": "Conection.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCoAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T00:12:30.868Z",
+              "WhenOpened": "2024-06-18T21:26:18.985Z",
               "EditorCaption": ""
             }
           ]

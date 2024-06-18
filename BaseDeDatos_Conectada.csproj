@@ -109,8 +109,5 @@
   <ItemGroup>
     <None Include="icono.png" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="sofy y yo.jpg" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

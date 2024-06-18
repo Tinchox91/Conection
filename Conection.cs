@@ -25,7 +25,7 @@ namespace BaseDeDatos_Conectada
             try
             {
                 conexionBD.Open();
-                MessageBox.Show("Conexión establecida correctamente");
+               
             }
             catch (MySqlException ex)
             {

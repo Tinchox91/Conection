@@ -38,7 +38,8 @@ namespace BaseDeDatos_Conectada
                     _escuela.Nombre = reader.GetString(1);
                     lista.Add(_escuela);
                 }
-            }catch (MySqlException ex)
+            }
+            catch (MySqlException ex)
             {
 Console.WriteLine(ex.Message.ToString());
 
@@ -46,5 +47,6 @@ Console.WriteLine(ex.Message.ToString());
             return lista;
            
         }
+
     }
 }
